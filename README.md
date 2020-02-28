@@ -2,6 +2,9 @@
 ## by Carolina Negrelli
 
 
+## Skills
+- Exploratory visualizations with matplotlib and seaborn libraries: countplot, hist, scatter, pairplot, boxplot, facetgrid, barplot, pointplot.
+
 ## Dataset
 
 This data set contains information about 7.5 million flights in USA for 2019. It has a lot of basic information such as Date, Time, Airline, Delays and Cancellations. I had remove 55 points with really large delay times.
